@@ -1,7 +1,8 @@
 ## Hey, I'm Roman! 👋
 
 ### Summary
-Expert level knowledge with 20+ years of experience in frontend  and backend development.
+
+Seasoned Fullstack Engineer with over 20 years of experience in building scalable web applications and high-load systems. Expert in the JavaScript/TypeScript ecosystem, with a proven track record of bridging the gap between complex backend architectures (Node.js, Microservices) and high-performance, accessible frontends (React, Vue).
 
 ## Specialties
 
