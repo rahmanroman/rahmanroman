@@ -2,7 +2,7 @@
 
 ### Summary
 
-Seasoned Fullstack Engineer with over 20 years of experience in building scalable web applications and high-load systems. Expert in the JavaScript/TypeScript ecosystem, with a proven track record of bridging the gap between complex backend architectures (Node.js, Microservices) and high-performance, accessible frontends (React, Vue).
+Senior Fullstack Engineer with over 20 years of experience, with a primary focus on modern Frontend development and high-performance UI architecture. Expert in building scalable web ecosystems using React and Vue, I specialize in creating seamless user experiences by bridging the gap between sophisticated backend infrastructures and intuitive interfaces.
 
 ## Specialties
 
